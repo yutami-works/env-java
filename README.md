@@ -42,3 +42,16 @@ $ javac HelloWorld.java
 ```
 $ java HelloWorld
 ```
+
+# 対話型プログラミング実行
+JShellを使えば対話型にコードの実行ができる。
+
+## 開始
+```
+$ jshell
+```
+
+## 終了
+```
+jshell> /exit
+```
